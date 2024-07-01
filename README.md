@@ -64,12 +64,12 @@ fork to your machine using one of the commands below, depending on your OS.
 #### Clone kickstart.nvim
 > **NOTE**
 > If following the recommended step above (i.e., forking the repo), replace
-> `dam9000` with `<your_github_username>` in the commands below
+> `shadow-absorber` with `<your_github_username>` in the commands below
 
 <details><summary> Linux and Mac </summary>
 
 ```sh
-git clone https://github.com/dam9000/kickstart-modular.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+git clone https://github.com/shadow-absorber/kickstart-modular.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
 ```
 
 </details>
@@ -79,13 +79,13 @@ git clone https://github.com/dam9000/kickstart-modular.nvim.git "${XDG_CONFIG_HO
 If you're using `cmd.exe`:
 
 ```
-git clone https://github.com/dam9000/kickstart-modular.nvim.git %userprofile%\AppData\Local\nvim\
+git clone https://github.com/shadow-absorber/kickstart-modular.nvim.git %userprofile%\AppData\Local\nvim\
 ```
 
 If you're using `powershell.exe`
 
 ```
-git clone https://github.com/dam9000/kickstart-modular.nvim.git $env:USERPROFILE\AppData\Local\nvim\
+git clone https://github.com/shadow-absorber/kickstart-modular.nvim.git $env:USERPROFILE\AppData\Local\nvim\
 ```
 
 </details>
@@ -137,7 +137,7 @@ examples of adding popularly requested plugins.
     same functionality is available here:
     * [kickstart-modular.nvim](https://github.com/dam9000/kickstart-modular.nvim)
   * *NOTE: This is the fork that splits the configuration into smaller parts.*
-    The original repo with the single `init.lua` file is available here:
+    The original repo with the single `init.lua` file i available here:
     * [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
   * Discussions on this topic can be found here:
     * [Restructure the configuration](https://github.com/nvim-lua/kickstart.nvim/issues/218)
