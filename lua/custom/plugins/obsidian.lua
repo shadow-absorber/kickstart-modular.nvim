@@ -35,7 +35,7 @@ return {
     workspaces = {
       {
         name = 'grimore-of-shadows',
-        path = '~/notes/Grimore-of-Shadows',
+        path = '~/Documents/notes/Grimore-of-Shadows/',
       },
     },
 

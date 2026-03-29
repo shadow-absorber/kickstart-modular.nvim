@@ -72,6 +72,6 @@ vim.o.scrolloff = 10
 vim.o.confirm = true
 
 -- setup python provider
-vim.g['python3_host_prog'] = '/home/sam_tunder/.local/share/pyenv/versions/py3nvim/bin/python'
+vim.g['python3_host_prog'] = '/home/user/.local/share/pyenv/versions/py3nvim/bin/python'
 
 -- vim: ts=2 sts=2 sw=2 et
